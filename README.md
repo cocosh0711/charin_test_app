@@ -1,30 +1,30 @@
 #README.md
 
-Cha輪
-Cha輪とは自転車を売りたい人と買いたい人をマッチングさせるSNSです
+<h1>Cha輪</h1>
+<p>Cha輪とは自転車を売りたい人と買いたい人をマッチングさせるSNSです</p>
 
-機能一覧
-・ユーザ登録、編集機能
-・ログイン・ログアウト機能
-・投稿機能、投稿編集・削除機能
-・いいね！機能
+<h2>機能一覧</h2>
+<li>ユーザ登録、編集機能</li>
+<li>ログイン・ログアウト機能</li>
+<li>投稿機能、投稿編集・削除機能</li>
+<li>いいね！機能</li>
 
-使用技術一覧
+<h2>使用技術一覧</h2>
 
-フロントサイド
-・HTML
-・CSS
-・JavaScript
+<h3>フロントサイド</h3>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
 
-バックエンド
-・Ruby（2.6.3)
-・Ruby on Rails (6.0.3.2)
+<h3>バックエンド</h3>
+<li>Ruby（2.6.3)</li>
+<li>Ruby on Rails (6.0.3.2)</li>
 
-サーバー
-・heroku (7.42.4)
+<h3>サーバー</h3>
+<li>heroku (7.42.4)</li>
 
-データベース
-・sqlite3 (開発・テスト環境）
-・PostgleSQL(本番環境)
+<h3>データベース</h3>
+<li>sqlite3 (開発・テスト環境）</li>
+<li>PostgleSQL(本番環境)</li>
 
-rubocop
+<h5>rubocop</h5>
