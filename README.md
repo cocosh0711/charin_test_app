@@ -1,4 +1,4 @@
-README.md
+#README.md
 
 Cha輪
 Cha輪とは自転車を売りたい人と買いたい人をマッチングさせるSNSです
