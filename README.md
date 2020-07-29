@@ -2,6 +2,7 @@
 <h1>Cha輪</h1>
 <img src = "https://user-images.githubusercontent.com/67270032/88800419-164abe80-d1e3-11ea-9ee0-ab7e5f28e2de.png">
 <p>Cha輪とは自転車を売りたい人と買いたい人をマッチングさせるSNSです</p>
+<a href = "https://charin-test-app.herokuapp.com/">https://charin-test-app.herokuapp.com/</a>
 
 <h2>機能一覧</h2>
 <li>ユーザ登録、編集機能</li>
