@@ -1,6 +1,6 @@
 #README.md
-
 <h1>Cha輪</h1>
+https://user-images.githubusercontent.com/67270032/88800419-164abe80-d1e3-11ea-9ee0-ab7e5f28e2de.png
 <p>Cha輪とは自転車を売りたい人と買いたい人をマッチングさせるSNSです</p>
 
 <h2>機能一覧</h2>
