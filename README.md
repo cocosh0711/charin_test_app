@@ -28,5 +28,5 @@
 <li>sqlite3 (開発・テスト環境）</li>
 <li>PostgleSQL(本番環境)</li>
 
-コード修正
+<h3>コード修正</h3>
 <h5>rubocop</h5>
