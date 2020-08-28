@@ -15,7 +15,7 @@
 <h3>フロントサイド</h3>
 <li>HTML</li>
 <li>CSS</li>
-<li>JavaScript</li>
+
 
 <h3>バックエンド</h3>
 <li>Ruby（2.6.3)</li>
@@ -26,7 +26,7 @@
 
 <h3>データベース</h3>
 <li>sqlite3 (開発・テスト環境）</li>
-<li>PostgleSQL(本番環境)</li>
+<li>PostgreSQL(本番環境)</li>
 
 <h3>コード修正</h3>
 <h5>rubocop</h5>
